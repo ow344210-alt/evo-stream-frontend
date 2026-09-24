@@ -45,3 +45,5 @@ next-env.d.ts
 # Local AI tooling and audit reports
 .kilo/
 PHASE*_AUDIT.md
+
+vercel.json.backup
